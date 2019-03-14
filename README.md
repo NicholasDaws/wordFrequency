@@ -1,4 +1,4 @@
-# wordCount1
+# wordFrequency
 
 #words.py
 Returns a word frequency list.
